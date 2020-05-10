@@ -15,6 +15,7 @@ $URL
 
 $ChantRandom = $null
 $ChantTrouve = $null
+Start-process "https://raphaelgj.github.io/Kirtan/"
 
 do {
 cls
