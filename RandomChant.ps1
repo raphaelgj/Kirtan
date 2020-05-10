@@ -12,6 +12,14 @@ $URL = "https://raphaelgj.github.io/Kirtan/" + $Fichier
 $URL
 }
 
+<#Sauve les urls pour le javascript bouton random
+$itt = -1
+foreach ($url in $urls) {
+$itt++
+"randomlinks[$itt]=""$url"""
+}
+pause
+#>
 
 $ChantRandom = $null
 $ChantTrouve = $null
