@@ -9,7 +9,7 @@ This mostly acts as my personal songbook and the idea is to have a short audio s
 
 The audio samples found here are not meant to represent the chants in their final form or to be listened to as a good performance.
 
-They are quick one take recordings without prior practice that act as a reminder of the core to get the fire started. (pitch warning ;))
+They are quick one take recordings without prior practice that act as a reminder of the core to get the fire started.
 
 Each section is played briefly but in reality the different sections are much longer and organic in their transition.
 
